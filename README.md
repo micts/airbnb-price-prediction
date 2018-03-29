@@ -1,3 +1,3 @@
 # airbnb-price-prediction
 
-TO DO: Add data.
+To Do: Add data.
